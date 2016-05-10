@@ -1,0 +1,24 @@
+{
+  "name": "telegrambot",
+  "version": "0.1.0",
+  "description": "a simple RSS reader telegram app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "?"
+  },
+  "keywords": [
+    "telegram",
+    "telegrambot",
+    "javascriot"
+  ],
+  "author": "MohammadSharifi <?>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "node-telegram-bot-api": "^0.21.1"
+  }
+}
