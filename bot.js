@@ -9,8 +9,8 @@ console.log('bot server started ...');
 
 bot.onText( /^\/say (.+)$/ , function (msg , match) {
   var name = match[1];
-  bot.sendMessage(msg.chat.id , 'Hellllo! ' + name + '!').then( function () {
-    //
+  bot.sendMessage(msg.chat.id , 'Hellllo ' + name + '!').then( function () {
+    //..
   });
 });
 

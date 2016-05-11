@@ -15,7 +15,7 @@
     "telegrambot",
     "javascriot"
   ],
-  "author": "MohammadSharifi <?>",
+  "author": "MohammadSharifi <mmdsharifi@yahoo.com>",
   "license": "ISC",
   "dependencies": {
     "express": "^4.13.4",
