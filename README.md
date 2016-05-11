@@ -1,4 +1,4 @@
-# :bird: GhrGharBot
+# :bird: GharGharBot
 a simple telegram bot with nodejs and heroku
 
 # Development
